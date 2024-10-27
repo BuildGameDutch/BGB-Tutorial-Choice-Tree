@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 213,
+    "build": 217,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -113,6 +113,173 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
           "name": "CaesarDressing-Regular.ttf"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f1e231bf9ea89b842ac63e17cc41cab0dd3a5d88916ca3454d89872e85c239d7_Red Button_Hovered.png",
+          "name": "Red Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/673facf2cabe26813a9ac066e93c005e264c6222557999e56582a0fe73216f3f_Red Button_Idle.png",
+          "name": "Red Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e3269fc6a93f1d6083564069b4d14c7e31df6bfc96d27f82c791d2210242315a_Red Button_Pressed.png",
+          "name": "Red Button_Pressed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Button With Stone Frame_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Button With Stone Frame_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/a835b9f7fa283fad672fb8607fae99c67b44cb853e81b878926ed7804816be23_Green Button With Stone Frame_Hovered.png",
+          "name": "Green Button With Stone Frame_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Button With Stone Frame_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Button With Stone Frame_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/d13ac936a5ce1b628ec20f6031582f6fce805d090e77e5e05d27344bac08ba98_Green Button With Stone Frame_Idle.png",
+          "name": "Green Button With Stone Frame_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Button With Stone Frame_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Button With Stone Frame_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/8921367f00ac169c0565935cbcaed36d5f383f7d3c4e819fbd7384a89dae1d43_Green Button With Stone Frame_Pressed.png",
+          "name": "Green Button With Stone Frame_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Roboto-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Roboto-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
+          "name": "Roboto-Regular.ttf"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Button With Stone Frame_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Stone Frame_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b2c6ef85d2088a94a58d7c457ed225561a073aa3c9e6401a612bcdd98795ae91_Purple Button With Stone Frame_Hovered.png",
+          "name": "Purple Button With Stone Frame_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Button With Stone Frame_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Stone Frame_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/3bd79fc534fc1d2859343599ea35a2c3f81700ffebdf7b8b798be440e59ad816_Purple Button With Stone Frame_Idle.png",
+          "name": "Purple Button With Stone Frame_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Button With Stone Frame_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Stone Frame_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/631710ee61e5e5422c9986ae91169e2e76e3f874a1aca8d2b02d6b5675348256_Purple Button With Stone Frame_Pressed.png",
+          "name": "Purple Button With Stone Frame_Pressed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orange Button With Stone Frame_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Button With Stone Frame_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/d9f0792f91e3d7948395be2a60773d80eebd8bcc8f506668db7fdafc3a1a8b12_Orange Button With Stone Frame_Hovered.png",
+          "name": "Orange Button With Stone Frame_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orange Button With Stone Frame_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Button With Stone Frame_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/623f773b7fcb6086b852622191c3fe6868f18dea34fb4f4150f4955cd17d9d49_Orange Button With Stone Frame_Idle.png",
+          "name": "Orange Button With Stone Frame_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orange Button With Stone Frame_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Button With Stone Frame_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/988126f14c4319aab11ff5fbcfb970806eaa418a4543a3ccfc1ef9ec183f1d60_Orange Button With Stone Frame_Pressed.png",
+          "name": "Orange Button With Stone Frame_Pressed.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -148,19 +315,31 @@
         "windowMask": false
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "CurrentChoice",
+          "type": "string",
+          "value": "start"
+        },
+        {
+          "name": "ChoiceHistory",
+          "type": "array",
+          "children": []
+        }
+      ],
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 200,
           "keepRatio": true,
           "layer": "",
           "name": "MainStoryText",
           "persistentUuid": "c5cd2b5e-4d1e-4073-a9c9-daeebeec5baa",
-          "width": 0,
-          "x": 450,
-          "y": 107,
+          "width": 1100,
+          "x": 75,
+          "y": 145,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -168,16 +347,17 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 156,
           "keepRatio": true,
           "layer": "",
-          "name": "PlayerChoiceText1",
-          "persistentUuid": "9be6dc6f-905d-465d-b95b-09ae9e3ca6b7",
-          "width": 0,
-          "x": 104,
-          "y": 321,
-          "zOrder": 2,
+          "name": "ResetButton",
+          "persistentUuid": "a09ab0eb-3442-4ffa-a001-a25947f76e01",
+          "width": 401,
+          "x": 420,
+          "y": 525,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -188,12 +368,12 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "PlayerChoiceText2",
-          "persistentUuid": "f53cf187-e858-4836-8d29-07a848b12195",
+          "name": "PlayerChoice1",
+          "persistentUuid": "a733b624-1e36-4024-8b3a-dc0fed13807a",
           "width": 0,
-          "x": 531,
-          "y": 315,
-          "zOrder": 3,
+          "x": 20,
+          "y": 283,
+          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -204,59 +384,50 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "PlayerChoiceText3",
-          "persistentUuid": "95aab439-c3fa-4af0-850e-2040844f2184",
+          "name": "PlayerChoice2",
+          "persistentUuid": "1bd01fb1-f660-470e-b9f1-a57fe67a8539",
           "width": 0,
-          "x": 949,
-          "y": 318,
-          "zOrder": 4,
+          "x": 450,
+          "y": 283,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlayerChoice3",
+          "persistentUuid": "b04a28f9-a29b-46ee-9715-bd7f44f9d652",
+          "width": 0,
+          "x": 872,
+          "y": 283,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "LocationText",
+          "persistentUuid": "f84edfff-26f6-4977-9586-b57e9810240e",
+          "width": 0,
+          "x": 1106,
+          "y": 27,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
       ],
       "objects": [
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "PlayerChoiceText1",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Go To Town",
-          "font": "",
-          "textAlignment": "center",
-          "characterSize": 35,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Go To Town",
-            "font": "",
-            "textAlignment": "center",
-            "characterSize": 35,
-            "color": "0;0;0"
-          }
-        },
         {
           "assetStoreId": "",
           "bold": false,
@@ -270,7 +441,7 @@
           "behaviors": [],
           "string": "What will you do?",
           "font": "",
-          "textAlignment": "left",
+          "textAlignment": "center",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -293,67 +464,363 @@
             "underlined": false,
             "text": "What will you do?",
             "font": "",
-            "textAlignment": "left",
+            "textAlignment": "center",
+            "verticalTextAlignment": "center",
             "characterSize": 40,
             "color": "0;0;0"
           }
         },
         {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "PlayerChoiceText2",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
+          "assetStoreId": "0d3f4843e5ebb7af30fd80adf19a1c5a14164c1283f344991dc2aa14067a1262",
+          "name": "ResetButton",
+          "type": "PanelSpriteButton::PanelSpriteButton",
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Run Away",
-          "font": "",
-          "textAlignment": "center",
-          "characterSize": 35,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
           "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Run Away",
-            "font": "",
-            "textAlignment": "center",
-            "characterSize": 35,
-            "color": "0;0;0"
+            "LeftPadding": 16,
+            "RightPadding": 16,
+            "PressedLabelOffsetY": 10,
+            "BottomPadding": 32,
+            "TopPadding": 16,
+            "HoveredFadeOutDuration": 0.25
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 32,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Red Button_Hovered.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 256
+            },
+            "Idle": {
+              "bottomMargin": 32,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Red Button_Idle.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 256
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Reset Choices",
+              "font": "",
+              "textAlignment": "center",
+              "characterSize": 60,
+              "color": {
+                "b": 16,
+                "g": 38,
+                "r": 111
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Reset Choices",
+                "font": "",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 60,
+                "color": "111;38;16"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 16,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Red Button_Pressed.png",
+              "tiled": true,
+              "topMargin": 32,
+              "width": 256
+            }
+          }
+        },
+        {
+          "assetStoreId": "0364dbe0c9a504055bcfd65a3e898b58b0cb0aea76c15cc0b9961815b88ba4e6",
+          "name": "PlayerChoice1",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 2,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 0,
+              "height": 102,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Green Button With Stone Frame_Hovered.png",
+              "tiled": false,
+              "topMargin": 0,
+              "width": 348
+            },
+            "Idle": {
+              "bottomMargin": 0,
+              "height": 102,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Green Button With Stone Frame_Idle.png",
+              "tiled": false,
+              "topMargin": 0,
+              "width": 348
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Go To Town",
+              "font": "Roboto-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Go To Town",
+                "font": "Roboto-Regular.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 40,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 0,
+              "height": 102,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Green Button With Stone Frame_Pressed.png",
+              "tiled": false,
+              "topMargin": 0,
+              "width": 348
+            }
+          }
+        },
+        {
+          "assetStoreId": "3699f3a9dbcacb430dfb90834c239c60a0324b631635c6658396cd524c7adb0a",
+          "name": "PlayerChoice2",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 2,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 0,
+              "height": 102,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Purple Button With Stone Frame_Hovered.png",
+              "tiled": false,
+              "topMargin": 0,
+              "width": 348
+            },
+            "Idle": {
+              "bottomMargin": 0,
+              "height": 102,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Purple Button With Stone Frame_Idle.png",
+              "tiled": false,
+              "topMargin": 0,
+              "width": 348
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Run Away",
+              "font": "Roboto-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Run Away",
+                "font": "Roboto-Regular.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 40,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 0,
+              "height": 102,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Purple Button With Stone Frame_Pressed.png",
+              "tiled": false,
+              "topMargin": 0,
+              "width": 348
+            }
+          }
+        },
+        {
+          "assetStoreId": "a0b220a4d2b5cc644055848ff63b0f56c2685517bf870112832c9ab4b65aaa2f",
+          "name": "PlayerChoice3",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 2,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 0,
+              "height": 102,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Orange Button With Stone Frame_Hovered.png",
+              "tiled": false,
+              "topMargin": 0,
+              "width": 348
+            },
+            "Idle": {
+              "bottomMargin": 0,
+              "height": 102,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Orange Button With Stone Frame_Idle.png",
+              "tiled": false,
+              "topMargin": 0,
+              "width": 348
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Go To Sleep",
+              "font": "Roboto-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Go To Sleep",
+                "font": "Roboto-Regular.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 40,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 0,
+              "height": 102,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Orange Button With Stone Frame_Pressed.png",
+              "tiled": false,
+              "topMargin": 0,
+              "width": 348
+            }
           }
         },
         {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
-          "name": "PlayerChoiceText3",
+          "name": "LocationText",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Go To Sleep",
+          "string": "start",
           "font": "",
-          "textAlignment": "center",
-          "characterSize": 35,
+          "textAlignment": "left",
+          "characterSize": 30,
           "color": {
             "b": 0,
             "g": 0,
@@ -373,10 +840,11 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Go To Sleep",
+            "text": "start",
             "font": "",
-            "textAlignment": "center",
-            "characterSize": 35,
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
             "color": "0;0;0"
           }
         }
@@ -385,28 +853,56 @@
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "PlayerChoiceText1"
-          },
-          {
-            "objectName": "PlayerChoiceText2"
-          },
-          {
-            "objectName": "PlayerChoiceText3"
-          },
-          {
             "objectName": "MainStoryText"
+          },
+          {
+            "objectName": "ResetButton"
+          },
+          {
+            "objectName": "PlayerChoice1"
+          },
+          {
+            "objectName": "PlayerChoice2"
+          },
+          {
+            "objectName": "PlayerChoice3"
+          },
+          {
+            "objectName": "LocationText"
           }
         ]
       },
       "events": [
         {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Make Choices Round 1",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "DepartScene"
+                "value": "StringVariable"
               },
               "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"town\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "PlayerChoice1",
                 ""
               ]
             }
@@ -414,9 +910,663 @@
           "actions": [
             {
               "type": {
-                "value": "PlayerAuthentication::DisplayAuthenticationBanner"
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
               },
               "parameters": [
+                "MainStoryText",
+                "Text",
+                "=",
+                "\"You made it to the Inn!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PushString"
+              },
+              "parameters": [
+                "ChoiceHistory",
+                "\"inn\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"inn\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "LocationText",
+                "Text",
+                "=",
+                "CurrentChoice"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "PlayerChoice1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "PlayerChoice2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "PlayerChoice3"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"town\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "PlayerChoice2",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "MainStoryText",
+                "Text",
+                "=",
+                "\"You made it to the Castle!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PushString"
+              },
+              "parameters": [
+                "ChoiceHistory",
+                "\"castle\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"castle\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "LocationText",
+                "Text",
+                "=",
+                "CurrentChoice"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "PlayerChoice1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "PlayerChoice2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "PlayerChoice3"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"town\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "PlayerChoice3",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "MainStoryText",
+                "Text",
+                "=",
+                "\"You made it to Ye Olde Shoppe!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PushString"
+              },
+              "parameters": [
+                "ChoiceHistory",
+                "\"shoppe\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"shoppe\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "LocationText",
+                "Text",
+                "=",
+                "CurrentChoice"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "PlayerChoice1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "PlayerChoice2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "PlayerChoice3"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"start\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "PlayerChoice1",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "MainStoryText",
+                "Text",
+                "=",
+                "\"Welcome to Town!  What Next?\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice1",
+                "\"Visit the Inn\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice2",
+                "\"Visit the Castle\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice3",
+                "\"Visit the Shoppe\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PushString"
+              },
+              "parameters": [
+                "ChoiceHistory",
+                "\"town\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"town\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "LocationText",
+                "Text",
+                "=",
+                "CurrentChoice"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"start\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "PlayerChoice2",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "MainStoryText",
+                "Text",
+                "=",
+                "\"You ran away!! What Next?\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice1",
+                "\"Run Further\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice2",
+                "\"Lay Down\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice3",
+                "\"Give Up!\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PushString"
+              },
+              "parameters": [
+                "ChoiceHistory",
+                "\"run\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"run\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "LocationText",
+                "Text",
+                "=",
+                "CurrentChoice"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"start\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "PlayerChoice3",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "MainStoryText",
+                "Text",
+                "=",
+                "\"ZZZZZZZZZZZZZ!  What Next?\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice1",
+                "\"ZZ ZZZZ\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice2",
+                "\"Z Z Z Z\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice3",
+                "\"ZZZZIIOOO\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PushString"
+              },
+              "parameters": [
+                "ChoiceHistory",
+                "\"sleep\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"sleep\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "LocationText",
+                "Text",
+                "=",
+                "CurrentChoice"
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Reset to Initial State",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
+              },
+              "parameters": [
+                "ResetButton",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice1",
+                "\"Go To Town\"",
+                "="
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice2",
+                "\"Run Away\"",
+                "="
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+              },
+              "parameters": [
+                "PlayerChoice3",
+                "\"Go To Sleep\"",
+                "="
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "MainStoryText",
+                "Text",
+                "=",
+                "\"What Will You Do?\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "CurrentChoice",
+                "=",
+                "\"start\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ClearVariableChildren"
+              },
+              "parameters": [
+                "ChoiceHistory"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "LocationText",
+                "Text",
+                "=",
+                "CurrentChoice"
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "PlayerChoice1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "PlayerChoice2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "PlayerChoice3",
                 ""
               ]
             }
@@ -475,8 +1625,16 @@
           "type": "EffectCapability::EffectBehavior"
         },
         {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
           "name": "Opacity",
           "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
         },
         {
           "name": "Scale",
@@ -3102,6 +4260,7 @@
                 "text": "Text",
                 "font": "",
                 "textAlignment": "",
+                "verticalTextAlignment": "top",
                 "characterSize": 20,
                 "color": "0;0;0"
               }
